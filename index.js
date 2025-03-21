@@ -9,4 +9,4 @@ let random = Math.floor(Math.random() * 100) + 1;
 
 let mod = num3 % num4;
 
-const max = Math.max(5, 9, 12,17, 20);
+const max = Math.max(5, 9, 12,18, 20);
